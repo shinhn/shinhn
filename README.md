@@ -1,6 +1,6 @@
 ## 👋 Hello, World!  
-I'm **server developer** using Spring.🌱  
-If you want to know more about me, Click the Notion below
+I'm **server developer** using 🌱 Spring.  
+If you want to know more about me, Click the Notion below  
 <a href="https://silly-line-61b.notion.site/130d829a3e8c4c8784b5ea8576743866">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>  
@@ -22,9 +22,4 @@ If you want to know more about me, Click the Notion below
   <a href="https://aws.amazon.com/ko/">
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   </a>
-  
-  
-  
-  
-  
 </div>
