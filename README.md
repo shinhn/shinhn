@@ -1,9 +1,5 @@
 ## 👋 Hello, World!  
 I'm **server developer** using 🌱 Spring.  
-If you want to know more about me, Click the Notion below  
-<a href="https://silly-line-61b.notion.site/130d829a3e8c4c8784b5ea8576743866">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-</a>  
   
 ## ⚒ Skills  
 <div>
